@@ -1,4 +1,4 @@
-//In this algo we bring short eleemnt to the front of the array
+ //In this algo we bring short eleemnt to the front of the array
 
 class SelecetionSort{
     public static void main(String[] args){
