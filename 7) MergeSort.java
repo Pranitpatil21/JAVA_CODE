@@ -4,7 +4,7 @@ class MergeSort{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter length of array1");
-        int n = sc .nextInt();
+        int n = sc .nextInt(); 
         int[] arr1 = new int[n];
         System.out.print("Enter element of array1");
         for(int e = 0; e<arr1.length;e++){
