@@ -3,7 +3,7 @@
 import java.util.*;
 class Searching{
     static void Bubblesort(int[] arr,int n) {
-                if(n == 1){
+                if(n == 1){ 
                     return;
                 }
                 boolean swapped = false;
