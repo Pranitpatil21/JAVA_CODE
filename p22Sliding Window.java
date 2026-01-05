@@ -1,6 +1,6 @@
 // Q1 ]Count the total number of Subarray of K size.
 
- class Subarray{
+ class Subarray{ 
       static int TotalSubarray(int[] arr,int N,int k){
      int count =0;
      int left =0;
