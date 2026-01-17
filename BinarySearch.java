@@ -3,7 +3,7 @@
    a sorted array. Return -1 if the element is not present.
    For example, given the input array arr = [2, 4, 4, 4, 6, 7, 8] and the target element
    4, the function should return 1, as 4 first appears at index 1 in the array.   */
-
+ 
 
 import java.util.*;
 class Searching{
