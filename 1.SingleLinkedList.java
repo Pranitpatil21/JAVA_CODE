@@ -1,5 +1,5 @@
 //Singly Linked List
-class Node{
+class Node{ 
     int data;
     Node next = null;
     Node(int data){
