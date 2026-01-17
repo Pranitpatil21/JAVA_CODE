@@ -2,7 +2,7 @@ import java.util.*;
 class Node{
     int data;
     Node next = null;
-    Node prev = null;
+    Node prev = null; 
     Node(int data){
         this.data = data;
     }
